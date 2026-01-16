@@ -16,4 +16,5 @@ This repository documents my 4-month roadmap to become a SOC Level 1 Analyst.
 - TryHackMe / LetsDefend
 
 ## Author
-Mr Hoodie
+Mohammad Mohsin
+
